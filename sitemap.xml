@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.christhomas.co.uk/index.html</loc>
-    <lastmod>2023-04-02T21:39:36.352Z</lastmod>
+    <lastmod>2023-04-02T21:48:32.702Z</lastmod>
   </url>
   <url>
     <loc>https://blog.christhomas.co.uk/about.html</loc>
-    <lastmod>2023-04-02T21:39:36.542Z</lastmod>
+    <lastmod>2023-04-02T21:48:32.912Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.christhomas.co.uk/posts/stable-diffusion-with-image-content-and-style-guidance/index.html</loc>
+    <lastmod>2023-04-02T21:48:33.112Z</lastmod>
   </url>
 </urlset>
